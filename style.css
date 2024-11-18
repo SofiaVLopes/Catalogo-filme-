@@ -1,14 +1,14 @@
 body {
     background-color: rgb(162, 243, 216);
-    color: #087e74;
+    color: #0be7d5;
     margin: 10px;
 }
 
 header {
     border-bottom: solid 2px #03856f;
     padding: 20px;
-    font-size: 20px;
-    color:#23eecc;
+    font-size: 35px;
+    color:#058a74;
 }
 
 .chamada {
