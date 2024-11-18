@@ -5,14 +5,14 @@ body {
 }
 
 header {
-    border-bottom: solid 2px #b8e2bf;
+    border-bottom: solid 2px #03856f;
     padding: 20px;
     font-size: 32px;
-    color:#148f7a;
+    color:#047965;
 }
 
 .chamada {
-    background: #56b3b9;
+    background: #017981;
     padding-bottom: 80px;
     padding-top: 80px;
     display: flex;
@@ -24,11 +24,11 @@ header {
 }
 
 h1 {
-    font-size: 20px;
+    font-size: 40px;
 }
 
 p {
-    font-size: 20px;
+    font-size: 25px;
 }
 
 footer {
