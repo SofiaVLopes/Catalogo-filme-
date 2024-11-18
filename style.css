@@ -1,6 +1,6 @@
 body {
     background-color: rgb(162, 243, 216);
-    color: #04756c;
+    color: #10968b;
     margin: 10px;
 }
 
@@ -8,11 +8,11 @@ header {
     border-bottom: solid 2px #b8e2bf;
     padding: 20px;
     font-size: 32px;
-    color:#0f6859;
+    color:#148f7a;
 }
 
 .chamada {
-    background: #4a9b6c;
+    background: #56b3b9;
     padding-bottom: 80px;
     padding-top: 80px;
     display: flex;
@@ -42,6 +42,6 @@ footer {
 
 footer p {
     text-align: center;
-    font-size: 20px;
+    font-size: 35px;
     margin-top: 5px;
 }
