@@ -1,4 +1,47 @@
 body {
     background-color: rgb(162, 243, 216);
     color: #260475;
+    margin: 10px;
+}
+
+header {
+    border-bottom: solid 2px #abceb1;
+    padding: 20px;
+    font-size: 32px;
+    color:#000;
+}
+
+.chamada {
+    background: #4a9b6c;
+    padding-bottom: 80px;
+    padding-top: 80px;
+    display: flex;
+    justify-content: center;
+}
+
+.chamada-texto {
+    margin-right: 5%;
+}
+
+h1 {
+    font-size: 20px;
+}
+
+p {
+    font-size: 20px;
+}
+
+footer {
+    background-color: #000;
+    color: aquamarine;
+    bottom: 0;
+    position: fixed;
+    width: 100%;
+
+}
+
+footer p {
+    text-align: center;
+    font-size: 14px;
+    margin-top: 3px;
 }
